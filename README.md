@@ -1,8 +1,8 @@
-# 🐟 Circle Chain
+# Circle Chain
 
 A creature made of circles and basic maths. The first circle follows your mouse, every other circle follows the one in front. Change the settings and it becomes a fish, snake, caterpillar or whip. Eat the food to grow.
 
-**Play:** open `index.html` in any browser.
+**Play:** visit https://maths-of-circles.netlify.app/.
 
 ## The maths
 
